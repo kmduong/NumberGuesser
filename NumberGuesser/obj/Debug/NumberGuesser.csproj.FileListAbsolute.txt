@@ -1,0 +1,7 @@
+D:\VisualStudio\source\repos\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+D:\VisualStudio\source\repos\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+D:\VisualStudio\source\repos\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+D:\VisualStudio\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+D:\VisualStudio\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+D:\VisualStudio\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+D:\VisualStudio\source\repos\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
